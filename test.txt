@@ -1,0 +1,45 @@
+ Apache HBase
+[INFO] Apache HBase - Checkstyle
+[INFO] Apache HBase - Build Support
+[INFO] Apache HBase - Error Prone Rules
+[INFO] Apache HBase - Annotations
+[INFO] Apache HBase - Build Configuration
+[INFO] Apache HBase - Shaded Protocol
+[INFO] Apache HBase - Common
+[INFO] Apache HBase - Metrics API
+[INFO] Apache HBase - Hadoop Compatibility
+[INFO] Apache HBase - Metrics Implementation
+[INFO] Apache HBase - Hadoop Two Compatibility
+[INFO] Apache HBase - Protocol
+[INFO] Apache HBase - Client
+[INFO] Apache HBase - Zookeeper
+[INFO] Apache HBase - Replication
+[INFO] Apache HBase - Resource Bundle
+[INFO] Apache HBase - HTTP
+[INFO] Apache HBase - Procedure
+[INFO] Apache HBase - Server
+[INFO] Apache HBase - MapReduce
+[INFO] Apache HBase - Testing Util
+[INFO] Apache HBase - Thrift
+[INFO] Apache HBase - RSGroup
+[INFO] Apache HBase - Shell
+[INFO] Apache HBase - Coprocessor Endpoint
+[INFO] Apache HBase - Backup
+[INFO] Apache HBase - Integration Tests
+[INFO] Apache HBase - Examples
+[INFO] Apache HBase - Rest
+[INFO] Apache HBase - External Block Cache
+[INFO] Apache HBase - Spark
+[INFO] Apache HBase - Spark Integration Tests
+[INFO] Apache HBase - Assembly
+[INFO] Apache HBase - Shaded
+[INFO] Apache HBase - Shaded - Client
+[INFO] Apache HBase - Shaded - MapReduce
+[INFO] Apache HBase Shaded Packaging Invariants
+[INFO] Apache HBase - Archetypes
+[INFO] Apache HBase - Exemplar for hbase-client archetype
+[INFO] Apache HBase - Exemplar for hbase-shaded-client archetype
+[INFO] Apache HBase - Archetype builder
+
+
+mvn eclipse:eclipse -DskipTests
